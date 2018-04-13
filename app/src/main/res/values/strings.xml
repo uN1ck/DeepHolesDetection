@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">DeepHolesDetection</string>
+    <string name="data_server_address">https://localhost:8081</string>
+    <string name="data_server_token">exorcist</string>
 </resources>
